@@ -64,11 +64,9 @@ I thrive on open source projects, learning new technologies, and blending techni
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Contact
 
-- 🔗 GitHub: [github.com/furix](https://github.com/furix)
-- 💬 Always open to collaboration, especially in OSINT & open-source
-- 🛠️ Currently working with: **Go**, **TypeScript**, **React**, **MongoDB**, and more!
+- 🔗 GitHub: [My Website](https://pretty.wtf)
 
 ---
 
